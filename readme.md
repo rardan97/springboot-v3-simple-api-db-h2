@@ -15,9 +15,7 @@
 git clone https://github.com/rardan97/springboot-v3-simple-api-db-h2.git
 ```
 
-2. add new database mysql with name "db_curd_api"
-
-3. open project with intellij IDEA then edit config database in application.properties change database name, username and password match your config db
+2. open project with intellij IDEA then edit config database in application.properties
 
    #### location : spring-boot-curd-api/src/main/resources/application.properties
 
